@@ -1,0 +1,16 @@
+package examen;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class FechaTest {
+	Fecha fecha1= new Fecha();
+	
+	
+	@Test
+	void testC1() {
+		assertEquals(fecha1.validarFecha(28, 2, 2018), true);
+	}
+
+}

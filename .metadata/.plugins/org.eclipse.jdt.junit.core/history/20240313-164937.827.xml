@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="FechaTest" project="Examen_2a" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="examen.FechaTest" time="0.024" displayname="FechaTest" uniqueid="[engine:junit-jupiter]/[class:examen.FechaTest]">
+    <testcase name="test1" classname="examen.FechaTest" time="0.024" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:examen.FechaTest]/[method:test1()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The method assertTrue(boolean, Supplier&lt;String&gt;) in the type Assertions is not applicable for the arguments (boolean, boolean)
+&#13;
+	at examen.FechaTest.test1(FechaTest.java:13)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

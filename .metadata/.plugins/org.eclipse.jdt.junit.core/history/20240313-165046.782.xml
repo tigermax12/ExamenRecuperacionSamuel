@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="FechaTest" project="Examen_2a" tests="1" started="1" failures="1" errors="0" ignored="0">
+  <testsuite name="examen.FechaTest" time="0.03" displayname="FechaTest" uniqueid="[engine:junit-jupiter]/[class:examen.FechaTest]">
+    <testcase name="testC1" classname="examen.FechaTest" time="0.03" displayname="testC1()" uniqueid="[engine:junit-jupiter]/[class:examen.FechaTest]/[method:testC1()]">
+      <failure>
+        <expected>false</expected>
+        <actual>true</actual>
+        org.opentest4j.AssertionFailedError: expected: &lt;false&gt; but was: &lt;true&gt;&#13;
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)&#13;
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)&#13;
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)&#13;
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)&#13;
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)&#13;
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1141)&#13;
+	at examen.FechaTest.testC1(FechaTest.java:13)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+  </testsuite>
+</testrun>

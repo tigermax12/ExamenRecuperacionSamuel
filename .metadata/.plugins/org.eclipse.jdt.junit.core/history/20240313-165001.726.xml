@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="FechaTest" project="Examen_2a" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="examen.FechaTest" time="0.023" displayname="FechaTest" uniqueid="[engine:junit-jupiter]/[class:examen.FechaTest]">
+    <testcase name="test1" classname="examen.FechaTest" time="0.023" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:examen.FechaTest]/[method:test1()]"/>
+  </testsuite>
+</testrun>
